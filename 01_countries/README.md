@@ -2,6 +2,8 @@
 
 Database: [word.sql](https://github.com/David-Bustos/mysql-exercises/blob/main/01_countries/world.sql)
 
+Queries desarrolladas: [queries_countries.sql](https://github.com/David-Bustos/mysql-exercises/blob/main/01_countries/queries_countries.sql)
+
 ### Consultas
 
 1. ¿Qué consulta harías para obtener todos los países que hablan esloveno? Tu consulta debe devolver el nombre del país, el idioma y el porcentaje de idioma. Tu consulta debe organizar el resultado por porcentaje de idioma en orden descendente.
